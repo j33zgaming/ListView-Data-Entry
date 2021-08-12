@@ -37,7 +37,7 @@ namespace Data_Entry
 			 
 			 else
         	{
-				string StuNo = txtStuNo.Text;
+			string StuNo = txtStuNo.Text;
         		string StuName = txtStuName.Text;
         		string Course = txtCourse.Text;
         		string[] row = { StuNo, StuName, Course };
